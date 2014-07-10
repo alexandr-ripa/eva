@@ -1,0 +1,4 @@
+debian 7.4 на x86
+
+virtualbox
+vmware player
